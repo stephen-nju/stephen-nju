@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephen-nju
-- 👀 I’m interested in nature lanfuage process
+- 👀 I’m interested in nature language process
 - 🌱 I’m currently learning search engine
 - 📫 zhubinnju@outlook.com
 <!---
